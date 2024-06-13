@@ -1,0 +1,21 @@
+Yellow 2
+blue 3
+Red 4
+Green 5
+Orange 9
+Purple 10 
+Violet 23
+Purple 54
+Green 55
+White 12
+Silver 6
+Black 7
+Aqua 7
+Pink 34
+Brown 43
+Tan 33
+Mustard 24
+blue 3
+yellow 6
+Green 3
+
